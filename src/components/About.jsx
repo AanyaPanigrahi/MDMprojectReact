@@ -11,19 +11,19 @@ const About = () => {
             <div className='flex flex-col items-center md:items-start mt-10 text-gray-600'>
                 <div className='grid grid-cols-2 gap-6 md:gap-10 w-full 2xl:pr-28'>
                     <div>
-                        <p className='text-4xl font-medium text-gray-800'>15+</p>
+                        <p className='text-4xl font-medium text-gray-800'>8+</p>
                         <p>Years of Experience</p>
                     </div>
                     <div>
-                        <p className='text-4xl font-medium text-gray-800'>4.8K+</p>
+                        <p className='text-4xl font-medium text-gray-800'>4K+</p>
                         <p>Jobs completed</p>
                     </div>
                     <div>
-                        <p className='text-4xl font-medium text-gray-800'>3.6K+</p>
+                        <p className='text-4xl font-medium text-gray-800'>1K+</p>
                         <p>Global Clients</p>
                     </div>
                     <div>
-                        <p className='text-4xl font-medium text-gray-800'>100+</p>
+                        <p className='text-4xl font-medium text-gray-800'>10+</p>
                         <p>Awards in the field</p>
                     </div>
 
